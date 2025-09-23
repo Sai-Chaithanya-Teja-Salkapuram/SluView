@@ -1,0 +1,37 @@
+[
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Alice",
+    "rating": 5,
+    "text": "Fantastic espresso and super friendly staff. Love this spot!",
+    "date": "2025-09-20"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "John",
+    "rating": 4,
+    "text": "Great pour-over coffee. Minimalist space with nice vibe.",
+    "date": "2025-09-21"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Maria",
+    "rating": 5,
+    "text": "Best place to work or study. Strong WiFi and excellent pastries.",
+    "date": "2025-09-22"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "David",
+    "rating": 4,
+    "text": "Cappuccino perfectly balanced. Friendly baristas.",
+    "date": "2025-09-23"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Sophia",
+    "rating": 5,
+    "text": "Seasonal lattes are creative and always hit the spot.",
+    "date": "2025-09-24"
+  }
+]
