@@ -1,0 +1,180 @@
+[
+  {
+    "business": "Swagruha Indian Cuisine",
+    "reviewer": "Sanjay",
+    "rating": 5,
+    "text": "Swagruha Indian Cuisine serves authentic dosas and sambar. Tastes just like home.",
+    "date": "2025-09-15"
+  },
+  {
+    "business": "Swagruha Indian Cuisine",
+    "reviewer": "Neha",
+    "rating": 4,
+    "text": "Loved their Andhra-style meals, great spice levels and good service.",
+    "date": "2025-09-16"
+  },
+  {
+    "business": "Swagruha Indian Cuisine",
+    "reviewer": "Arjun",
+    "rating": 5,
+    "text": "Excellent thali with generous portions. True South Indian flavor.",
+    "date": "2025-09-17"
+  },
+  {
+    "business": "Swagruha Indian Cuisine",
+    "reviewer": "Vikram",
+    "rating": 4,
+    "text": "Nice ambiance and authentic taste. Masala dosa is a must-try.",
+    "date": "2025-09-18"
+  },
+  {
+    "business": "Swagruha Indian Cuisine",
+    "reviewer": "Meena",
+    "rating": 5,
+    "text": "Idli and chutney here are perfect, staff are friendly and quick.",
+    "date": "2025-09-19"
+  },
+
+  {
+    "business": "Hyderabad Nawabi House",
+    "reviewer": "Priya",
+    "rating": 4,
+    "text": "Hyderabad Nawabi House biryani was flavorful and generous in portion. Great value.",
+    "date": "2025-09-20"
+  },
+  {
+    "business": "Hyderabad Nawabi House",
+    "reviewer": "Ahmed",
+    "rating": 5,
+    "text": "The kebabs here are absolutely delicious and authentic.",
+    "date": "2025-09-21"
+  },
+  {
+    "business": "Hyderabad Nawabi House",
+    "reviewer": "Fatima",
+    "rating": 5,
+    "text": "Best Hyderabadi Dum Biryani in town. Loved the spices and aroma.",
+    "date": "2025-09-22"
+  },
+  {
+    "business": "Hyderabad Nawabi House",
+    "reviewer": "Rajesh",
+    "rating": 4,
+    "text": "Their Haleem during special season is unbeatable. Worth the wait.",
+    "date": "2025-09-23"
+  },
+  {
+    "business": "Hyderabad Nawabi House",
+    "reviewer": "Lata",
+    "rating": 5,
+    "text": "Authentic Hyderabadi desserts like Qubani ka Meetha. A great ending to a meal.",
+    "date": "2025-09-24"
+  },
+
+  {
+    "business": "Spice Mantra",
+    "reviewer": "Rahul",
+    "rating": 5,
+    "text": "Spice Mantra impressed us with its rich curries and fresh naan. Must try!",
+    "date": "2025-09-25"
+  },
+  {
+    "business": "Spice Mantra",
+    "reviewer": "Maya",
+    "rating": 4,
+    "text": "Love the vegetarian thali at Spice Mantra. Portions are generous.",
+    "date": "2025-09-26"
+  },
+  {
+    "business": "Spice Mantra",
+    "reviewer": "Anil",
+    "rating": 5,
+    "text": "Butter chicken and tikka platter were perfect. Authentic Indian taste.",
+    "date": "2025-09-27"
+  },
+  {
+    "business": "Spice Mantra",
+    "reviewer": "Divya",
+    "rating": 4,
+    "text": "Good mix of North and South Indian dishes. Service is quick.",
+    "date": "2025-09-28"
+  },
+  {
+    "business": "Spice Mantra",
+    "reviewer": "Kiran",
+    "rating": 5,
+    "text": "Masala chai and dosas were amazing. Perfect spot for lunch.",
+    "date": "2025-09-29"
+  },
+
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Adam B.",
+    "rating": 5,
+    "text": "Today, as summer gives way to fall, I'm taking some moments to read, absorb, and savor a really good cup of coffee. St. Louis has made solid spots, but if I'm going to enjoy something nuanced, well-sourced, and delicious, I'm coming to Blueprint Coffee on Watson. I love the whole vibe of this place - natural light spilling through the many windows of this former car garage, good music playing, plants everywhere, warm wood, yellow furniture, and non-pretentious, friendly baristas - and the single cup coffee is a fave. Today's cup was Turaco, rich, dark, with some smoke and tart berry. When it's really nice outside, they roll the garage doors up, and the breeze paired with everything else is glorious. There's long communal table seating inside and a back patio with multi-top tables under shade, so whatever dynamic you're looking for with your coffee, Blueprint offers it. Solid breakfast sandwiches, pastries, and more, as well. It's definitely a go-to coffeehouse for me in the city when I'm just wanting space to sip, savor, and enjoy.",
+    "date": "Sep 19, 2025"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Allison W.",
+    "rating": 5,
+    "text": "Blueprint has the best latte in St. Louis (out of all the places I've tried! My favorite is the ice caramel latte with whole milk (not much of a non-dairy milk gal). The Watson location also has a little outside area. Not as many seating spots inside, but still a good size. Parking lot can only hold 3 cars but street parking is usually super easy to find. The staff is always knowledgeable and kind. I always look forward to stopping in! There's usually always a line but it goes quick. They have food options (some vegan options for folks who need it).",
+    "date": "Dec 21, 2024"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Robert B.",
+    "rating": 5,
+    "text": "Fun little coffee spot! Lots of different drink options and a few good offerings. I liked the decor and the use of roll up doors to help make the space more open and airy. Staff was helpful in picking options and patient while we figured out what to try. My wife and daughter got coffees while I tried an iced tea. Cool spot to hang out. No drive through, not that kind of coffee place!",
+    "date": "Jul 13, 2024"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Paige C.",
+    "rating": 5,
+    "text": "Best local latte I've had in awhile! We finally visited Blueprint this past weekend after a long time planning to go, we don't often drive down that part of Watson but also say it when we pass and are reminded its so close to us. The line out the door on a Saturday morning immediately told us we chose correctly. First thing that stood out inside was the atmosphere, everyone working including other customers were in a good mood. I liked the available variety of different roasts and seasonally crafted drink options - tea also. Service was quick, employees helped make choices based on our preferences. We got a hot coffee and iced caramel latte with almond milk to-go. Will be back sooner than it took us to visit in the first place.",
+    "date": "Apr 30, 2025"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Ronald K.",
+    "rating": 5,
+    "text": "Coffee not for the faint of heart! Sure it's strong and will definitely put hair on your chest. It's Java love at first sip.",
+    "date": "Nov 19, 2024"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Brianna N.",
+    "rating": 4,
+    "text": "Blueprint has the most amazing coffee. Chances are, if your favorite local coffee shop doesn't roast their own coffee beans, they probably get them from Blueprint. They have perfect the roasting process. They have a great food menu, too! I got the sausage & pepper egg biscuit and it was gooood. This is also one of the more family friendly coffee shops I've been to. The baristas are so sweet to kids, they even have stickers for them, and they have these really low tables that are perfect for kids. Also, if you buy a bag of coffee beans, you get a free drink! It's sweet. The one con is it's not a great place to sit and work. There isn't a lot of seating, and the only outlets are by the bench with low tables.",
+    "date": "Jan 17, 2024"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Elizabeth G.",
+    "rating": 5,
+    "text": "Always a pleasure stopping in for coffee whether it's to-go or to stay and enjoy there. Don't let the size fool you, plenty of seating inside and on their back patio. Come for the coffee, stay for the cookies; their oatmeal with banana, coconut, dried cherry & Askinosie chocolate is delicious!",
+    "date": "Feb 27, 2025"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Abigail R.",
+    "rating": 5,
+    "text": "Blueprint is my favorite coffee shop. From their great selection of baked goods to their incredible coffee selection they have been our go to for our coffee needs and friend dates. I always go for the biscuit with butter + jam or the egg biscuit sandwich both are 10/10! The egg sandwich has a tomato jam that is too die for and they have truly perfected the egg patty. For coffee, my partner loves their cold brew and I tend to go for their lattes usually with oat milk and salted caramel syrup but you can never go wrong with their seasonal drinks. Ambiance-- they are always playing incredible music, they have seating areas in the front and back of the cafe, tons of plants to brighten even the grayest of days. They host markets in the front lot and even have a basketball hoop if you are feeling up to shooting some shots. Service-- we love everyone that works here! They are incredibly warm, helpful, and you can tell they care deeply about their customers. Really thankful that we have this gem close by. They are the reason why we are regulars. Shoutout to Ethan, Micah, Ashley, MG, Ryan, Jordan and Britton.",
+    "date": "Nov 11, 2023"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Megan R.",
+    "rating": 5,
+    "text": "Two things about me: I love a seasonal drink and a reimagined building! Once upon a time, Blueprint Coffee Bar's Watson location was an auto-repair shop. The garage doors lend gorgeous natural lighting to the transformed space and the walk-up window makes for a warm welcome when the weather is right! The back patio is a neat little plant-filled nook, the perfect shaded spot for summer sips.",
+    "date": "Aug 12, 2023"
+  },
+  {
+    "business": "Blueprint Coffee",
+    "reviewer": "Ali L.",
+    "rating": 4,
+    "text": "The iced coffee was fantastic! My biggest issue at other places is the syrup is often not blended well and I will a strawful of syrup before I can even taste the coffee. This was beautifully blended! The banana bread was good, but it was a tad cold when I received. I think it would have tasted better warmed up. Service was fast and friendly! They have outdoor seating in the back and it was a perfect day to sit outside!",
+    "date": "Mar 11, 2024"
+  }
+]

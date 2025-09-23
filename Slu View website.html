@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SLUview</title>
+  <link rel="stylesheet" href="slu.css">
+</head>
+<body>
+  <header>
+    <h1>SLUview</h1>
+    <p>Discover and review local spots</p>
+  </header>
+
+  <main class="container">
+    <!-- Filters Column -->
+    <aside class="filters">
+      <h2>Filters</h2>
+      <div class="filter-group">
+        <h3>Category</h3>
+        <button class="filter-btn" data-category="Coffee">Coffee</button>
+        <button class="filter-btn" data-category="Indian">Indian</button>
+      </div>
+      <div class="filter-group">
+        <h3>Price</h3>
+        <button class="filter-btn" data-price="$">$</button>
+        <button class="filter-btn" data-price="$$">$$</button>
+        <button class="filter-btn" data-price="$$$">$$$</button>
+      </div>
+      <div class="filter-group">
+        <h3>Rating</h3>
+        <button class="filter-btn" data-rating="4">4+ Stars</button>
+        <button class="filter-btn" data-rating="3">3+ Stars</button>
+      </div>
+    </aside>
+
+    <!-- Featured Businesses Column -->
+    <section class="featured">
+      <h2>Featured Businesses (Click to see reviews)</h2>
+
+      <article class="business-card" data-business="Blueprint Coffee" data-category="Coffee" data-price="$$" data-rating="4">
+        <h3>Blueprint Coffee</h3>
+        <p>Coffee | St. Louis | $$ | ★★★★☆</p>
+        <p>Modern specialty coffee bar known for single-origin espresso and minimalist design.</p>
+      </article>
+
+      <article class="business-card" data-business="Swagruha Indian Cuisine" data-category="Indian" data-price="$$" data-rating="4">
+        <h3>Swagruha Indian Cuisine</h3>
+        <p>Restaurant | St. Louis | $$ | ★★★★☆</p>
+        <p>Family-run South Indian restaurant serving dosas, idlis, biryani, and other authentic Andhra-style dishes in a relaxed setting.</p>
+      </article>
+
+      <article class="business-card" data-business="Hyderabad Nawabi House" data-category="Indian" data-price="$$" data-rating="4">
+        <h3>Hyderabad Nawabi House</h3>
+        <p>Restaurant | St. Louis | $$ | ★★★★☆</p>
+        <p>Popular spot specializing in Hyderabadi biryani, kebabs, and traditional Mughlai curries with generous portions and rich flavors.</p>
+      </article>
+
+      <article class="business-card" data-business="Spice Mantra" data-category="Indian" data-price="$$" data-rating="4">
+        <h3>Spice Mantra</h3>
+        <p>Restaurant | St. Louis | $$ | ★★★★☆</p>
+        <p>Lively Indian eatery offering a mix of North and South Indian classics, from butter chicken and tikka to dosas and vegetarian thalis.</p>
+      </article>
+    </section>
+
+    <!-- Reviews Column -->
+    <section class="reviews">
+      <h2 id="reviews-title">Select a Business to See Reviews</h2>
+      <div id="review-container"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 SLUview</p>
+  </footer>
+
+  <script src="review.js"></script>
+</body>
+</html>
