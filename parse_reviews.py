@@ -33,14 +33,14 @@ review_blocks = soup.select("#reviews > section > div.y-css-mhg9c5 > ul > li")
 all_reviews = []
 
 for block in review_blocks:
-    # Reviewer name
+    # Reviewer name (updated selector)
     reviewer_name_el = block.select_one(
         "div.y-css-9vtc3g div.y-css-8x4us div.arrange-unit__09f24__rqHTg.arrange-unit-fill__09f24__CUubG.y-css-mhg9c5 "
-        "div.user-passport-info.y-css-mhg9c5 > div.y-css-14zpyii"
+        "div.user-passport-info.y-css-mhg9c5 > span > a"
     )
     reviewer_name = reviewer_name_el.get_text(strip=True) if reviewer_name_el else None
 
-    # Location
+    # Location (kept same)
     location_el = block.select_one(
         "div.y-css-9vtc3g div.y-css-8x4us div.arrange-unit__09f24__rqHTg.arrange-unit-fill__09f24__CUubG.y-css-mhg9c5 "
         "div.user-passport-info.y-css-mhg9c5 > div.y-css-14zpyii"
